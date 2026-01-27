@@ -1,5 +1,5 @@
 
-# Consumer Behavior Trend Analysis
+# Retail Trends & Profitability Analysis 
 
 ## 📌 Project Overview
 
