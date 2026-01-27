@@ -80,6 +80,9 @@ Key features:
 * Customer segmentation and behavior analysis
 * Interactive filters to explore data by region, demographics, or time
 
+* <img width="986" height="535" alt="retails project dasboard" src="https://github.com/user-attachments/assets/67f7344e-c7ea-40cd-b534-5989b6da6a94" />
+
+
 
 ## 📈 Results & Insights
 
